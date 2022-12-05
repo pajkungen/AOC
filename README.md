@@ -1,5 +1,5 @@
-## my advent of code code
-| ### challenge | ### my code |
+## 🎅 my advent of code code 🎅
+| challenge | my code |
 |--------------|------------|
 | [day 1](https://adventofcode.com/2022/day/1)     | [code]    |
 | [day 2](https://adventofcode.com/2022/day/2)     | [code]    |
