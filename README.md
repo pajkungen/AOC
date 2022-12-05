@@ -1,4 +1,4 @@
-## 🎅 my advent of code code 🎅
+## 🎄🎅🤶 Advent of Code🎄🎅🤶
 | challenge | my code |
 |--------------|------------|
 | [day 1](https://adventofcode.com/2022/day/1)     | [code](https://github.com/pajkungen/AOC/tree/main/day1)    |
